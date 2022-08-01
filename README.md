@@ -1,2 +1,1 @@
-# .github
-Juros Baixos Profile Repository
+# Welcome to Juros Baixos!
